@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.142.0.3 cmk-dev.us-east1-b.c.devops-practice-282714.internal cmk-dev  # Added by Google
+169.254.169.254 metadata.google.internal  # Added by Google
+104.198.201.50 jenkins-master
+8.8.8.8 testing-check
