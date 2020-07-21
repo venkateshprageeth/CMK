@@ -3,5 +3,6 @@
 all_hosts = [
 "jenkins-master",
 "testing-check",
+"testing-check2",
 ]
 
