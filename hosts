@@ -4,3 +4,4 @@
 169.254.169.254 metadata.google.internal  # Added by Google
 104.198.201.50 jenkins-master
 8.8.8.8 testing-check
+8.8.8.8 google-check
