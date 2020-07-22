@@ -1,6 +1,8 @@
 127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
-10.142.0.3 cmk-dev.us-east1-b.c.devops-practice-282714.internal cmk-dev  # Added by Google
+10.128.0.5 puppet-master.us-central1-a.c.devops-practice-282714.internal puppet-master  # Added by Google
 169.254.169.254 metadata.google.internal  # Added by Google
-104.198.201.50 jenkins-master
-8.8.8.8 testing-check
+35.202.255.193 puppet-master.venkat.com
+34.70.95.194 puppet-slave1.venkat.com
+35.224.222.105 puppet-slave2.venkat.com
+
